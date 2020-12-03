@@ -41,6 +41,11 @@ optionRef1.on("value", function(data){
     
 
 
+optionA.mousePressed(function(data){
+    text("Hello",200,200)
+})
+
+
 
 
 
